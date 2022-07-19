@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-deploy-2/static/css/main.308df2f2.css",
+    "main.js": "/git-deploy-2/static/js/main.eca91367.js",
+    "index.html": "/git-deploy-2/index.html",
+    "main.308df2f2.css.map": "/git-deploy-2/static/css/main.308df2f2.css.map",
+    "main.eca91367.js.map": "/git-deploy-2/static/js/main.eca91367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308df2f2.css",
+    "static/js/main.eca91367.js"
+  ]
+}
